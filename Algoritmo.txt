@@ -4,4 +4,5 @@ inicio
 	numero1 = 10;
 	numero = 5;
 	print(numero1 + numero2);
+	print("hola, este fue el cambio de pablo :)");
 fin
