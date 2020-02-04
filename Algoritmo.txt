@@ -1,3 +1,7 @@
 function algoritmo()
 inicio
+	int numero1 = 0, numero2 = 0;
+	numero1 = 10;
+	numero = 5;
+	print(numero1 + numero2);
 fin
