@@ -6,3 +6,5 @@ inicio
 	print(numero1 + numero2);
 	print("hola, este fue el cambio de pablo :)");
 fin
+
+Ola ke ase
